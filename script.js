@@ -620,7 +620,7 @@ function renderApp() {
   const ft = document.getElementById("footer-text");
   if (ft) ft.innerHTML = `
     <span>© ${new Date().getFullYear()}</span>
-    <a href="https://ahmed-hamdi.netlify.app/" target="_blank" rel="noopener" class="footer-author">Ahmed Hamdi</a>
+    <a href="https://ahmedhamdi0309.github.io/Portfolio/" target="_blank" rel="noopener" class="footer-author">Ahmed Hamdi</a>
     <span class="footer-sep">—</span>
     <span>HireFlow</span>
   `;
